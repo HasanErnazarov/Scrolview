@@ -19,7 +19,7 @@
             android:layout_height="match_parent">
             <TextView
                 android:layout_width="wrap_content"
-                android:text="Kelajak kompaniyasi"
+                android:text="Kelajak kompaniyasi 2"
                 android:textSize="50sp"
                 android:textColor="#ED0000"
                 android:fontFamily="@font/android_script"
